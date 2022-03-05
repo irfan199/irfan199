@@ -1,6 +1,6 @@
 -👋 Hi, I’m Irfan
 - 👀 I’m currently a student at Institute Of University College Of Engineering 
-- 🌱 I’m currently learning react.js
+- 🌱 I’m currently exploring python
 - 💞️ I stand as energetic and highly motivated for my work with outstanding analytical & planning skills.
-- 📫 I'm intrested in Web Development(mern).
+- 📫 I'm intrested in Web Development.
 -✨ Iam always open to learn and explore technologies
