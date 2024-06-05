@@ -1,4 +1,4 @@
 -👋 Hi, I’m Irfan
-- 👀 Currently for infosys Ltd.
+- 👀 Currently working for infosys Ltd.
 - 💞️ I stand as energetic and highly motivated for my work with outstanding analytical & planning skills.
 -✨ Iam always open to learn and explore technologies
