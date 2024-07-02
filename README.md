@@ -1,4 +1,6 @@
--👋 Hi, I’m Irfan
-- 👀 Currently working for infosys Ltd.
-- 💞️ I stand as energetic and highly motivated for my work with outstanding analytical & planning skills.
--✨ Iam always open to learn and explore technologies
+I am a highly self-motivated individual, adaptable to change, and committed to daily
+learning and growth. I constantly seek to develop my skills and advance professionally.
+My technical expertise includes Microsoft Power BI, Office 365 (SharePoint, OneDrive,
+Power Platform), ASP.NET MVC, Entity Framework Core, SQL Server, Python (Flask),
+MySQL, and Advanced Excel. I am also a Microsoft Certified Power BI Data Analyst
+Associate.
